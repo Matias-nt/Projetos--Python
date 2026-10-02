@@ -5,3 +5,4 @@ Onde você joga com outro jogador dentro do terminal, com o objetivo de: Blackja
 Tecnologias Usadas: Python
 Autor: Matias Mariano Neto
 Projeto Finalizado.
+ 
